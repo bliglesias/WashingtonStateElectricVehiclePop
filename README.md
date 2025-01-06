@@ -9,7 +9,7 @@ This project is part of the "Data Science for Social Good" elective. The goal is
 - **Insights:** Draw meaningful conclusions from the visualized data.
 
 ## Dataset
-The dataset used in this project is sourced from [source name]. It contains information about [brief description of the dataset].
+The dataset used in this project is sourced from [data.wa.gov]. It contains information about [ Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL).].
 
 ## Tools and Libraries
 - **Programming Language:** Python
